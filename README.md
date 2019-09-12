@@ -1,9 +1,9 @@
 @accounsale
 آموزش نصب:
-
-
-
 cd Tabchi
+
+
+
 unzip KiaPashang && cd KiaPashang && chmod +x Launch && ./Launch Install
 
 صبر کنید تا نصب تموم بشه.
