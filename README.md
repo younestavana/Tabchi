@@ -1,7 +1,7 @@
 @accounsale
 آموزش نصب:
-cd Tabchi
 
+cd Tabchi
 
 
 unzip KiaPashang && cd KiaPashang && chmod +x Launch && ./Launch Install
